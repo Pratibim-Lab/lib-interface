@@ -1,0 +1,17 @@
+{
+  "id": "Interface/LTC6957xMS-4:LTC6957xMS-4",
+  "name": "LTC6957xMS-4",
+  "library": "Interface",
+  "file": "Interface.kicad_symdir/LTC6957xMS-4.kicad_sym",
+  "description": "Low Phase Noise, Dual Output Buffer/Driver/Logic Converter, CMOS Complementary Outputs, MSOP-12",
+  "datasheet": "https://www.analog.com/media/en/technical-documentation/data-sheets/6957fb.pdf",
+  "keywords": "LTC clock converter",
+  "footprint": "Package_SO:MSOP-12_3x4.039mm_P0.65mm",
+  "extends": "LTC6957xMS-3",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-interface@master/parts/LTC6957xMS-4/",
+  "part_path": "parts/LTC6957xMS-4",
+  "symbol_file": "parts/LTC6957xMS-4/LTC6957xMS-4.kicad_sym",
+  "source_library": "Interface.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T06:05:25.053Z"
+}

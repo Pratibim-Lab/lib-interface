@@ -1,0 +1,17 @@
+{
+  "id": "Interface/MC6843:MC6843",
+  "name": "MC6843",
+  "library": "Interface",
+  "file": "Interface.kicad_symdir/MC6843.kicad_sym",
+  "description": "Floppy Disc Controller, DIP-40",
+  "datasheet": "http://www.datasheetarchive.com/pdf/download.php?id=355f4f5379c550317997643252fd5cac1bb08e&type=M&query=MC6843P",
+  "keywords": "FDC",
+  "footprint": "Package_DIP:DIP-40_W15.24mm",
+  "extends": "",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-interface@master/parts/MC6843/",
+  "part_path": "parts/MC6843",
+  "symbol_file": "parts/MC6843/MC6843.kicad_sym",
+  "source_library": "Interface.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T06:05:25.085Z"
+}

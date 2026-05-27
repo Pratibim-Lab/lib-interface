@@ -1,0 +1,17 @@
+{
+  "id": "Interface/WD2795:WD2795",
+  "name": "WD2795",
+  "library": "Interface",
+  "file": "Interface.kicad_symdir/WD2795.kicad_sym",
+  "description": "Floppy disk controller, DIP-40",
+  "datasheet": "http://pdf.datasheetcatalog.com/datasheets2/12/1229802_1.pdf",
+  "keywords": "Floppy disk controller",
+  "footprint": "Package_DIP:DIP-40_W15.24mm",
+  "extends": "",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-interface@master/parts/WD2795/",
+  "part_path": "parts/WD2795",
+  "symbol_file": "parts/WD2795/WD2795.kicad_sym",
+  "source_library": "Interface.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T06:05:25.321Z"
+}

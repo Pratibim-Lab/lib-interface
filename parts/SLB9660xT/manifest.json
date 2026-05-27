@@ -1,0 +1,17 @@
+{
+  "id": "Interface/SLB9660xT:SLB9660xT",
+  "name": "SLB9660xT",
+  "library": "Interface",
+  "file": "Interface.kicad_symdir/SLB9660xT.kicad_sym",
+  "description": "Trusted Platform Module 1.2 with Low Pin Count interface, TSSOP-28",
+  "datasheet": "https://www.infineon.com/dgdl/Infineon-data-sheet-SLB9660_1.2_Rev1.2-DS-v01_02-EN.pdf?fileId=5546d462689a790c016929d1cb874fe5",
+  "keywords": "TPM LPC",
+  "footprint": "Package_SO:TSSOP-28_4.4x9.7mm_P0.65mm",
+  "extends": "",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-interface@master/parts/SLB9660xT/",
+  "part_path": "parts/SLB9660xT",
+  "symbol_file": "parts/SLB9660xT/SLB9660xT.kicad_sym",
+  "source_library": "Interface.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T06:05:25.163Z"
+}

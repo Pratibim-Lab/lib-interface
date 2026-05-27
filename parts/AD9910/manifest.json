@@ -1,0 +1,17 @@
+{
+  "id": "Interface/AD9910:AD9910",
+  "name": "AD9910",
+  "library": "Interface",
+  "file": "Interface.kicad_symdir/AD9910.kicad_sym",
+  "description": "1 GSPS, 14-Bit, 3.3V CMOS, Direct Digital Synthesizer, QFP-100",
+  "datasheet": "https://www.analog.com/media/en/technical-documentation/data-sheets/AD9910.pdf",
+  "keywords": "dds direct digital synthesizer",
+  "footprint": "Package_QFP:TQFP-100-1EP_14x14mm_P0.5mm_EP5x5mm",
+  "extends": "",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-interface@master/parts/AD9910/",
+  "part_path": "parts/AD9910",
+  "symbol_file": "parts/AD9910/AD9910.kicad_sym",
+  "source_library": "Interface.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T06:05:24.943Z"
+}

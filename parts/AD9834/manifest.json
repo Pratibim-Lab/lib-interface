@@ -1,0 +1,17 @@
+{
+  "id": "Interface/AD9834:AD9834",
+  "name": "AD9834",
+  "library": "Interface",
+  "file": "Interface.kicad_symdir/AD9834.kicad_sym",
+  "description": "10 bit 75 MHz Complete Direct Digital Synthesizer, 2.3V to 5.5V, 20mW, TSSOP-20",
+  "datasheet": "https://www.analog.com/static/imported-files/data_sheets/AD9834.pdf",
+  "keywords": "Direct Digital Synthesizer DDS",
+  "footprint": "Package_SO:TSSOP-20_4.4x6.5mm_P0.65mm",
+  "extends": "",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-interface@master/parts/AD9834/",
+  "part_path": "parts/AD9834",
+  "symbol_file": "parts/AD9834/AD9834.kicad_sym",
+  "source_library": "Interface.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T06:05:24.938Z"
+}

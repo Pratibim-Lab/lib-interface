@@ -1,0 +1,17 @@
+{
+  "id": "Interface/SN65LVDS047PW:SN65LVDS047PW",
+  "name": "SN65LVDS047PW",
+  "library": "Interface",
+  "file": "Interface.kicad_symdir/SN65LVDS047PW.kicad_sym",
+  "description": "Quad LVDS Differential Line Driver, 400Mbps, TSSOP-16",
+  "datasheet": "http://www.ti.com/lit/ds/symlink/sn65lvds047.pdf",
+  "keywords": "Quad LVDS Driver",
+  "footprint": "Package_SO:TSSOP-16_4.4x5mm_P0.65mm",
+  "extends": "",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-interface@master/parts/SN65LVDS047PW/",
+  "part_path": "parts/SN65LVDS047PW",
+  "symbol_file": "parts/SN65LVDS047PW/SN65LVDS047PW.kicad_sym",
+  "source_library": "Interface.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T06:05:25.170Z"
+}

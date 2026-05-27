@@ -1,0 +1,17 @@
+{
+  "id": "Interface/PCI9030-PQFP176:PCI9030-PQFP176",
+  "name": "PCI9030-PQFP176",
+  "library": "Interface",
+  "file": "Interface.kicad_symdir/PCI9030-PQFP176.kicad_sym",
+  "description": "PCI SMARTarget I/O Accelerator",
+  "datasheet": "http://lhcb-online.web.cern.ch/lhcb-online/ecs/ccpc/docs/plc-9030-databook.pdf",
+  "keywords": "PCI",
+  "footprint": "Package_QFP:LQFP-176_24x24mm_P0.5mm",
+  "extends": "",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-interface@master/parts/PCI9030-PQFP176/",
+  "part_path": "parts/PCI9030-PQFP176",
+  "symbol_file": "parts/PCI9030-PQFP176/PCI9030-PQFP176.kicad_sym",
+  "source_library": "Interface.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T06:05:25.148Z"
+}

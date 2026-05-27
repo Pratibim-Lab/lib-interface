@@ -1,0 +1,17 @@
+{
+  "id": "Interface/AD9912:AD9912",
+  "name": "AD9912",
+  "library": "Interface",
+  "file": "Interface.kicad_symdir/AD9912.kicad_sym",
+  "description": "1 GSPS, 14-bit DAC, Direct Digital Synthesizer, LFCSP-64",
+  "datasheet": "https://www.analog.com/media/en/technical-documentation/data-sheets/ad9912.pdf",
+  "keywords": "Direct Digital Synthesizer DDS",
+  "footprint": "Package_CSP:LFCSP-64-1EP_9x9mm_P0.5mm_EP5.21x5.21mm",
+  "extends": "",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-interface@master/parts/AD9912/",
+  "part_path": "parts/AD9912",
+  "symbol_file": "parts/AD9912/AD9912.kicad_sym",
+  "source_library": "Interface.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T06:05:24.944Z"
+}

@@ -1,0 +1,17 @@
+{
+  "id": "Interface/NB3N551MN:NB3N551MN",
+  "name": "NB3N551MN",
+  "library": "Interface",
+  "file": "Interface.kicad_symdir/NB3N551MN.kicad_sym",
+  "description": "1:4 Low Skew Clock Buffer, DFN-8",
+  "datasheet": "https://www.onsemi.com/pub/Collateral/NB3N551-D.PDF",
+  "keywords": "clock buffer",
+  "footprint": "Package_DFN_QFN:DFN-8-1EP_2x2mm_P0.5mm_EP0.9x1.3mm",
+  "extends": "",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-interface@master/parts/NB3N551MN/",
+  "part_path": "parts/NB3N551MN",
+  "symbol_file": "parts/NB3N551MN/NB3N551MN.kicad_sym",
+  "source_library": "Interface.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T06:05:25.120Z"
+}

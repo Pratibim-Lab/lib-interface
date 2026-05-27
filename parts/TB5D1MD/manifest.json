@@ -1,0 +1,17 @@
+{
+  "id": "Interface/TB5D1MD:TB5D1MD",
+  "name": "TB5D1MD",
+  "library": "Interface",
+  "file": "Interface.kicad_symdir/TB5D1MD.kicad_sym",
+  "description": "Quad differential PECL driver",
+  "datasheet": "http://www.ti.com/lit/ds/symlink/tb5d2h.pdf",
+  "keywords": "differential PECL driver",
+  "footprint": "Package_SO:SOIC-16_3.9x9.9mm_P1.27mm",
+  "extends": "",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-interface@master/parts/TB5D1MD/",
+  "part_path": "parts/TB5D1MD",
+  "symbol_file": "parts/TB5D1MD/TB5D1MD.kicad_sym",
+  "source_library": "Interface.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T06:05:25.223Z"
+}

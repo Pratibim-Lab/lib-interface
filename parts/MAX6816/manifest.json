@@ -1,0 +1,17 @@
+{
+  "id": "Interface/MAX6816:MAX6816",
+  "name": "MAX6816",
+  "library": "Interface",
+  "file": "Interface.kicad_symdir/MAX6816.kicad_sym",
+  "description": "Single Switch  Debouncer, SOT-143",
+  "datasheet": "https://datasheets.maximintegrated.com/en/ds/1896.pdf",
+  "keywords": "Switch Debouncer",
+  "footprint": "Package_TO_SOT_SMD:SOT-143",
+  "extends": "",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-interface@master/parts/MAX6816/",
+  "part_path": "parts/MAX6816",
+  "symbol_file": "parts/MAX6816/MAX6816.kicad_sym",
+  "source_library": "Interface.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T06:05:25.055Z"
+}

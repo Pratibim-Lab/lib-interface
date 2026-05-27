@@ -1,0 +1,17 @@
+{
+  "id": "Interface/82C55A:82C55A",
+  "name": "82C55A",
+  "library": "Interface",
+  "file": "Interface.kicad_symdir/82C55A.kicad_sym",
+  "description": "CHMOS Programmable Peripheral Interface, PDIP-40",
+  "datasheet": "http://jap.hu/electronic/8255.pdf",
+  "keywords": "8255 PPI",
+  "footprint": "Package_DIP:DIP-40_W15.24mm",
+  "extends": "8255",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-interface@master/parts/82C55A/",
+  "part_path": "parts/82C55A",
+  "symbol_file": "parts/82C55A/82C55A.kicad_sym",
+  "source_library": "Interface.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T06:05:24.933Z"
+}

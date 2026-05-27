@@ -1,0 +1,17 @@
+{
+  "id": "Interface/SN75160BN:SN75160BN",
+  "name": "SN75160BN",
+  "library": "Interface",
+  "file": "Interface.kicad_symdir/SN75160BN.kicad_sym",
+  "description": "Octal general-purpose interface bus transceiver, DIP-20",
+  "datasheet": "http://www.ti.com/lit/ds/symlink/sn75160b.pdf",
+  "keywords": "gpib bidirectional bus transceiver",
+  "footprint": "Package_DIP:DIP-20_W7.62mm",
+  "extends": "",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-interface@master/parts/SN75160BN/",
+  "part_path": "parts/SN75160BN",
+  "symbol_file": "parts/SN75160BN/SN75160BN.kicad_sym",
+  "source_library": "Interface.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T06:05:25.213Z"
+}

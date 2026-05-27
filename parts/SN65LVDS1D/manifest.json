@@ -1,0 +1,17 @@
+{
+  "id": "Interface/SN65LVDS1D:SN65LVDS1D",
+  "name": "SN65LVDS1D",
+  "library": "Interface",
+  "file": "Interface.kicad_symdir/SN65LVDS1D.kicad_sym",
+  "description": "High-Speed Differential Line Driver, 630Mbps, SOIC-8",
+  "datasheet": "http://www.ti.com/lit/ds/symlink/sn65lvds1.pdf",
+  "keywords": "LVDS Driver TI",
+  "footprint": "Package_SO:SOIC-8_3.9x4.9mm_P1.27mm",
+  "extends": "",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-interface@master/parts/SN65LVDS1D/",
+  "part_path": "parts/SN65LVDS1D",
+  "symbol_file": "parts/SN65LVDS1D/SN65LVDS1D.kicad_sym",
+  "source_library": "Interface.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T06:05:25.172Z"
+}

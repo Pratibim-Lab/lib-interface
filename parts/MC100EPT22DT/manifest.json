@@ -1,0 +1,17 @@
+{
+  "id": "Interface/MC100EPT22DT:MC100EPT22DT",
+  "name": "MC100EPT22DT",
+  "library": "Interface",
+  "file": "Interface.kicad_symdir/MC100EPT22DT.kicad_sym",
+  "description": "3.3 V Dual LVTTL/LVCMOS to Differential LVPECL Translator, TSSOP-8",
+  "datasheet": "https://www.onsemi.com/pub/Collateral/MC100EPT22-D.PDF",
+  "keywords": "PECL buffer interface",
+  "footprint": "Package_SO:TSSOP-8_3x3mm_P0.65mm",
+  "extends": "",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-interface@master/parts/MC100EPT22DT/",
+  "part_path": "parts/MC100EPT22DT",
+  "symbol_file": "parts/MC100EPT22DT/MC100EPT22DT.kicad_sym",
+  "source_library": "Interface.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T06:05:25.061Z"
+}

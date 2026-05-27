@@ -1,0 +1,17 @@
+{
+  "id": "Interface/TB5D2HDW:TB5D2HDW",
+  "name": "TB5D2HDW",
+  "library": "Interface",
+  "file": "Interface.kicad_symdir/TB5D2HDW.kicad_sym",
+  "description": "Quad differential PECL driver",
+  "datasheet": "http://www.ti.com/lit/ds/symlink/tb5d2h.pdf",
+  "keywords": "differential PECL driver",
+  "footprint": "Package_SO:SOIC-16W_7.5x10.3mm_P1.27mm",
+  "extends": "TB5D1MDW",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-interface@master/parts/TB5D2HDW/",
+  "part_path": "parts/TB5D2HDW",
+  "symbol_file": "parts/TB5D2HDW/TB5D2HDW.kicad_sym",
+  "source_library": "Interface.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T06:05:25.237Z"
+}

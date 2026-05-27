@@ -1,0 +1,17 @@
+{
+  "id": "Interface/MC68A44:MC68A44",
+  "name": "MC68A44",
+  "library": "Interface",
+  "file": "Interface.kicad_symdir/MC68A44.kicad_sym",
+  "description": "Direct Memory Access Controller 1.5MHz, DIP-40",
+  "datasheet": "http://pdf.datasheetcatalog.com/datasheets/560/501527_DS.pdf",
+  "keywords": "Direct Memory Access Controller",
+  "footprint": "Package_DIP:DIP-40_W15.24mm",
+  "extends": "MC6844",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-interface@master/parts/MC68A44/",
+  "part_path": "parts/MC68A44",
+  "symbol_file": "parts/MC68A44/MC68A44.kicad_sym",
+  "source_library": "Interface.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T06:05:25.107Z"
+}

@@ -1,0 +1,17 @@
+{
+  "id": "Interface/U2270B:U2270B",
+  "name": "U2270B",
+  "library": "Interface",
+  "file": "Interface.kicad_symdir/U2270B.kicad_sym",
+  "description": "IDIC read/write base stations in contactless identification and immobilizer systems, SO-16",
+  "datasheet": "http://www.farnell.com/datasheets/94393.pdf",
+  "keywords": "IDIC read/write base stations in contactless identification and immobilizer systems",
+  "footprint": "Package_SO:SOIC-16_3.9x9.9mm_P1.27mm",
+  "extends": "",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-interface@master/parts/U2270B/",
+  "part_path": "parts/U2270B",
+  "symbol_file": "parts/U2270B/U2270B.kicad_sym",
+  "source_library": "Interface.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T06:05:25.302Z"
+}

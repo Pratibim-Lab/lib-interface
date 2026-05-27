@@ -1,0 +1,17 @@
+{
+  "id": "Interface/PCA9600DP:PCA9600DP",
+  "name": "PCA9600DP",
+  "library": "Interface",
+  "file": "Interface.kicad_symdir/PCA9600DP.kicad_sym",
+  "description": "Dual bidirectional bus buffer, TSSOP-8",
+  "datasheet": "https://www.nxp.com/docs/en/data-sheet/PCA9600.pdf",
+  "keywords": "I2C buffer",
+  "footprint": "Package_SO:TSSOP-8_3x3mm_P0.65mm",
+  "extends": "",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-interface@master/parts/PCA9600DP/",
+  "part_path": "parts/PCA9600DP",
+  "symbol_file": "parts/PCA9600DP/PCA9600DP.kicad_sym",
+  "source_library": "Interface.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T06:05:25.141Z"
+}

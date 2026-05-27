@@ -1,0 +1,17 @@
+{
+  "id": "Interface/88SE9125C0-NAA:88SE9125C0-NAA",
+  "name": "88SE9125C0-NAA",
+  "library": "Interface",
+  "file": "Interface.kicad_symdir/88SE9125C0-NAA.kicad_sym",
+  "description": "One-Lane PCIe SATA Two-Ports Controller, QFN-76",
+  "datasheet": "https://www.marvell.com/documents/bqcwxsoiqfjkcjdjhkvc/",
+  "keywords": "PCIe2.0 SATA3.0",
+  "footprint": "Package_DFN_QFN:QFN-76-1EP_9x9mm_P0.4mm_EP3.8x3.8mm",
+  "extends": "",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-interface@master/parts/88SE9125C0-NAA/",
+  "part_path": "parts/88SE9125C0-NAA",
+  "symbol_file": "parts/88SE9125C0-NAA/88SE9125C0-NAA.kicad_sym",
+  "source_library": "Interface.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T06:05:24.935Z"
+}

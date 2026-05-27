@@ -1,0 +1,17 @@
+{
+  "id": "Interface/LTC1688:LTC1688",
+  "name": "LTC1688",
+  "library": "Interface",
+  "file": "Interface.kicad_symdir/LTC1688.kicad_sym",
+  "description": "100Mbps RS485 Hot Swapable Quad Drivers",
+  "datasheet": "https://www.analog.com/media/en/technical-documentation/data-sheets/16889fa.pdf",
+  "keywords": "driver rs485 rs422 differential",
+  "footprint": "Package_SO:SOIC-16_3.9x9.9mm_P1.27mm",
+  "extends": "",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-interface@master/parts/LTC1688/",
+  "part_path": "parts/LTC1688",
+  "symbol_file": "parts/LTC1688/LTC1688.kicad_sym",
+  "source_library": "Interface.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T06:05:25.001Z"
+}

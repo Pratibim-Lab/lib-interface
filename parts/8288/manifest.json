@@ -1,0 +1,17 @@
+{
+  "id": "Interface/8288:8288",
+  "name": "8288",
+  "library": "Interface",
+  "file": "Interface.kicad_symdir/8288.kicad_sym",
+  "description": "Bus Controller for Intel 8086/8088/80186/80188 microprocessors, DIP-20",
+  "datasheet": "http://www.datasheets360.com/pdf/7208679415653955300",
+  "keywords": "Bus Controller",
+  "footprint": "Package_DIP:DIP-20_W7.62mm",
+  "extends": "",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-interface@master/parts/8288/",
+  "part_path": "parts/8288",
+  "symbol_file": "parts/8288/8288.kicad_sym",
+  "source_library": "Interface.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T06:05:24.930Z"
+}

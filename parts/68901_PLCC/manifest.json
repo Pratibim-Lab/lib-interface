@@ -1,0 +1,17 @@
+{
+  "id": "Interface/68901_PLCC:68901_PLCC",
+  "name": "68901_PLCC",
+  "library": "Interface",
+  "file": "Interface.kicad_symdir/68901_PLCC.kicad_sym",
+  "description": "Multi-Function Peripheral, USART, Four timers, 8 DIO, 16-source interrupt controller",
+  "datasheet": "https://www.nxp.com/docs/en/reference-manual/MC68901UM.pdf",
+  "keywords": "MPRO",
+  "footprint": "",
+  "extends": "",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-interface@master/parts/68901_PLCC/",
+  "part_path": "parts/68901_PLCC",
+  "symbol_file": "parts/68901_PLCC/68901_PLCC.kicad_sym",
+  "source_library": "Interface.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T06:05:24.920Z"
+}

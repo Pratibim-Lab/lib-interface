@@ -1,0 +1,17 @@
+{
+  "id": "Interface/TCA9406DC:TCA9406DC",
+  "name": "TCA9406DC",
+  "library": "Interface",
+  "file": "Interface.kicad_symdir/TCA9406DC.kicad_sym",
+  "description": "2-Bit Bidirectional 1-MHz, I2C Bus and SMBus Voltage-Level Translator With 8-kV HBM ESD",
+  "datasheet": "www.ti.com/lit/ds/symlink/tca9406.pdf",
+  "keywords": "Bidirectional 1-MHz I2C SMBus Voltage-Level Translator 8kV HBM ESD",
+  "footprint": "",
+  "extends": "",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-interface@master/parts/TCA9406DC/",
+  "part_path": "parts/TCA9406DC",
+  "symbol_file": "parts/TCA9406DC/TCA9406DC.kicad_sym",
+  "source_library": "Interface.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T06:05:25.274Z"
+}

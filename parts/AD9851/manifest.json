@@ -1,0 +1,17 @@
+{
+  "id": "Interface/AD9851:AD9851",
+  "name": "AD9851",
+  "library": "Interface",
+  "file": "Interface.kicad_symdir/AD9851.kicad_sym",
+  "description": "CMOS, 180 MHz, DDS/DAC Synthesizer, SSOP-28",
+  "datasheet": "https://www.analog.com/media/en/technical-documentation/data-sheets/AD9851.pdf",
+  "keywords": "DDS direct digital synthesizer",
+  "footprint": "Package_SO:SSOP-28_5.3x10.2mm_P0.65mm",
+  "extends": "",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-interface@master/parts/AD9851/",
+  "part_path": "parts/AD9851",
+  "symbol_file": "parts/AD9851/AD9851.kicad_sym",
+  "source_library": "Interface.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T06:05:24.941Z"
+}

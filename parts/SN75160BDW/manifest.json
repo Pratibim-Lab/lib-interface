@@ -1,0 +1,17 @@
+{
+  "id": "Interface/SN75160BDW:SN75160BDW",
+  "name": "SN75160BDW",
+  "library": "Interface",
+  "file": "Interface.kicad_symdir/SN75160BDW.kicad_sym",
+  "description": "Octal general-purpose interface bus transceiver, SOIC-20",
+  "datasheet": "http://www.ti.com/lit/ds/symlink/sn75160b.pdf",
+  "keywords": "gpib bidirectional bus transceiver",
+  "footprint": "Package_SO:SOIC-20W_7.5x12.8mm_P1.27mm",
+  "extends": "",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-interface@master/parts/SN75160BDW/",
+  "part_path": "parts/SN75160BDW",
+  "symbol_file": "parts/SN75160BDW/SN75160BDW.kicad_sym",
+  "source_library": "Interface.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T06:05:25.207Z"
+}

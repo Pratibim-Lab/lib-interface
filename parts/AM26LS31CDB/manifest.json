@@ -1,0 +1,17 @@
+{
+  "id": "Interface/AM26LS31CDB:AM26LS31CDB",
+  "name": "AM26LS31CDB",
+  "library": "Interface",
+  "file": "Interface.kicad_symdir/AM26LS31CDB.kicad_sym",
+  "description": "32Mbps 3.3V RS485 Quad Line Drivers, SSOP-16",
+  "datasheet": "https://www.ti.com/lit/ds/symlink/am26ls31.pdf",
+  "keywords": "driver rs485 rs422 differential",
+  "footprint": "Package_SO:SSOP-16_5.3x6.2mm_P0.65mm",
+  "extends": "AM26LS31CD",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-interface@master/parts/AM26LS31CDB/",
+  "part_path": "parts/AM26LS31CDB",
+  "symbol_file": "parts/AM26LS31CDB/AM26LS31CDB.kicad_sym",
+  "source_library": "Interface.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T06:05:24.951Z"
+}

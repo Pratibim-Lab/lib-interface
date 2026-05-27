@@ -1,0 +1,17 @@
+{
+  "id": "Interface/5PB1108PGxx:5PB1108PGxx",
+  "name": "5PB1108PGxx",
+  "library": "Interface",
+  "file": "Interface.kicad_symdir/5PB1108PGxx.kicad_sym",
+  "description": "1:8 LVCMOS High-Performance Clock Buffer, 1.8V to 3.3V, TSSOP-16",
+  "datasheet": "https://www.renesas.com/us/en/document/dst/5pb11xx-family-datasheet",
+  "keywords": "clock buffer lvcmos",
+  "footprint": "Package_SO:TSSOP-16_4.4x5mm_P0.65mm",
+  "extends": "",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-interface@master/parts/5PB1108PGxx/",
+  "part_path": "parts/5PB1108PGxx",
+  "symbol_file": "parts/5PB1108PGxx/5PB1108PGxx.kicad_sym",
+  "source_library": "Interface.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T06:05:24.911Z"
+}

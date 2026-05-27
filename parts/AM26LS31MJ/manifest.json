@@ -1,0 +1,17 @@
+{
+  "id": "Interface/AM26LS31MJ:AM26LS31MJ",
+  "name": "AM26LS31MJ",
+  "library": "Interface",
+  "file": "Interface.kicad_symdir/AM26LS31MJ.kicad_sym",
+  "description": "32Mbps 3.3V RS485 Quad Line Drivers, DIP-16",
+  "datasheet": "https://www.ti.com/lit/ds/symlink/am26ls31.pdf",
+  "keywords": "driver rs485 rs422 differential",
+  "footprint": "Package_DIP:DIP-16_W7.62mm",
+  "extends": "AM26LS31CD",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-interface@master/parts/AM26LS31MJ/",
+  "part_path": "parts/AM26LS31MJ",
+  "symbol_file": "parts/AM26LS31MJ/AM26LS31MJ.kicad_sym",
+  "source_library": "Interface.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T06:05:24.954Z"
+}

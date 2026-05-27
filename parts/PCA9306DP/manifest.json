@@ -1,0 +1,17 @@
+{
+  "id": "Interface/PCA9306DP:PCA9306DP",
+  "name": "PCA9306DP",
+  "library": "Interface",
+  "file": "Interface.kicad_symdir/PCA9306DP.kicad_sym",
+  "description": "Dual bidirectional I2C Bus and SMBus voltage level translator, TSSOP-8",
+  "datasheet": "https://www.nxp.com/docs/en/data-sheet/PCA9306.pdf",
+  "keywords": "I2C SMBus",
+  "footprint": "Package_SO:TSSOP-8_3x3mm_P0.65mm",
+  "extends": "PCA9306",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-interface@master/parts/PCA9306DP/",
+  "part_path": "parts/PCA9306DP",
+  "symbol_file": "parts/PCA9306DP/PCA9306DP.kicad_sym",
+  "source_library": "Interface.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T06:05:25.136Z"
+}

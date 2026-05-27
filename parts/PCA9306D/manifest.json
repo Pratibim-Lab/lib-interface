@@ -1,0 +1,17 @@
+{
+  "id": "Interface/PCA9306D:PCA9306D",
+  "name": "PCA9306D",
+  "library": "Interface",
+  "file": "Interface.kicad_symdir/PCA9306D.kicad_sym",
+  "description": "Dual bidirectional I2C Bus and SMBus voltage level translator, SO-8",
+  "datasheet": "https://www.nxp.com/docs/en/data-sheet/PCA9306.pdf",
+  "keywords": "I2C SMBus",
+  "footprint": "Package_SO:SO-8_3.9x4.9mm_P1.27mm",
+  "extends": "PCA9306",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-interface@master/parts/PCA9306D/",
+  "part_path": "parts/PCA9306D",
+  "symbol_file": "parts/PCA9306D/PCA9306D.kicad_sym",
+  "source_library": "Interface.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T06:05:25.126Z"
+}

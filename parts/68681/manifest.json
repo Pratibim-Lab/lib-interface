@@ -1,0 +1,17 @@
+{
+  "id": "Interface/68681:68681",
+  "name": "68681",
+  "library": "Interface",
+  "file": "Interface.kicad_symdir/68681.kicad_sym",
+  "description": "dual universal asynchronous receiver/transmitter with parallel port",
+  "datasheet": "https://www.nxp.com/docs/en/user-guide/MC68681UM.pdf",
+  "keywords": "MPRO",
+  "footprint": "",
+  "extends": "",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-interface@master/parts/68681/",
+  "part_path": "parts/68681",
+  "symbol_file": "parts/68681/68681.kicad_sym",
+  "source_library": "Interface.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T06:05:24.918Z"
+}

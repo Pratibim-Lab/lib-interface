@@ -1,0 +1,17 @@
+{
+  "id": "Interface/HT12D:HT12D",
+  "name": "HT12D",
+  "library": "Interface",
+  "file": "Interface.kicad_symdir/HT12D.kicad_sym",
+  "description": "2^12 serial decoder, SOP-20",
+  "datasheet": "https://www.holtek.com/documents/10179/116711/2_12dv120.pdf",
+  "keywords": "Serial Decoder",
+  "footprint": "Package_SO:SOP-20_7.5x12.8mm_P1.27mm",
+  "extends": "",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-interface@master/parts/HT12D/",
+  "part_path": "parts/HT12D",
+  "symbol_file": "parts/HT12D/HT12D.kicad_sym",
+  "source_library": "Interface.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T06:05:24.986Z"
+}

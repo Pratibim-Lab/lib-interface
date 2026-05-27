@@ -1,0 +1,17 @@
+{
+  "id": "Interface/PCA9306:PCA9306",
+  "name": "PCA9306",
+  "library": "Interface",
+  "file": "Interface.kicad_symdir/PCA9306.kicad_sym",
+  "description": "Dual bidirectional I2C Bus and SMBus voltage level translator",
+  "datasheet": "http://www.ti.com/lit/ds/symlink/pca9306.pdf",
+  "keywords": "Dual bidirectional I2C Bus and SMBus voltage level translator",
+  "footprint": "",
+  "extends": "",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-interface@master/parts/PCA9306/",
+  "part_path": "parts/PCA9306",
+  "symbol_file": "parts/PCA9306/PCA9306.kicad_sym",
+  "source_library": "Interface.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T06:05:25.124Z"
+}

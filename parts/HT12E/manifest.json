@@ -1,0 +1,17 @@
+{
+  "id": "Interface/HT12E:HT12E",
+  "name": "HT12E",
+  "library": "Interface",
+  "file": "Interface.kicad_symdir/HT12E.kicad_sym",
+  "description": "2^12 serial encoder, SOP-20",
+  "datasheet": "https://www.holtek.com/documents/10179/116711/2_12ev120.pdf",
+  "keywords": "Serial Encoder",
+  "footprint": "Package_SO:SOP-20_7.5x12.8mm_P1.27mm",
+  "extends": "",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-interface@master/parts/HT12E/",
+  "part_path": "parts/HT12E",
+  "symbol_file": "parts/HT12E/HT12E.kicad_sym",
+  "source_library": "Interface.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T06:05:24.989Z"
+}

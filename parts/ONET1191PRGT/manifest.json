@@ -1,0 +1,17 @@
+{
+  "id": "Interface/ONET1191PRGT:ONET1191PRGT",
+  "name": "ONET1191PRGT",
+  "library": "Interface",
+  "file": "Interface.kicad_symdir/ONET1191PRGT.kicad_sym",
+  "description": "11.3-Gbps Limiting Amplifier, VQFN-16",
+  "datasheet": "http://www.ti.com/lit/ds/symlink/onet1191p.pdf",
+  "keywords": "limiting amplifier gigabit ethernet sfp sfp+",
+  "footprint": "Package_DFN_QFN:VQFN-16-1EP_3x3mm_P0.5mm_EP1.68x1.68mm",
+  "extends": "",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-interface@master/parts/ONET1191PRGT/",
+  "part_path": "parts/ONET1191PRGT",
+  "symbol_file": "parts/ONET1191PRGT/ONET1191PRGT.kicad_sym",
+  "source_library": "Interface.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T06:05:25.122Z"
+}

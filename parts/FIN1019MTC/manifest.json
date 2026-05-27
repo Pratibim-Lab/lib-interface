@@ -1,0 +1,17 @@
+{
+  "id": "Interface/FIN1019MTC:FIN1019MTC",
+  "name": "FIN1019MTC",
+  "library": "Interface",
+  "file": "Interface.kicad_symdir/FIN1019MTC.kicad_sym",
+  "description": "3.3V LVDS High Speed Differential Driver/Receiver, 400Mbps, TSSOP-14",
+  "datasheet": "http://www.onsemi.com/pub/Collateral/FIN1019-D.pdf",
+  "keywords": "lvds driver receiver",
+  "footprint": "Package_SO:TSSOP-14_4.4x5mm_P0.65mm",
+  "extends": "",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-interface@master/parts/FIN1019MTC/",
+  "part_path": "parts/FIN1019MTC",
+  "symbol_file": "parts/FIN1019MTC/FIN1019MTC.kicad_sym",
+  "source_library": "Interface.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T06:05:24.984Z"
+}

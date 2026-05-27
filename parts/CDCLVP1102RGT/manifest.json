@@ -1,0 +1,17 @@
+{
+  "id": "Interface/CDCLVP1102RGT:CDCLVP1102RGT",
+  "name": "CDCLVP1102RGT",
+  "library": "Interface",
+  "file": "Interface.kicad_symdir/CDCLVP1102RGT.kicad_sym",
+  "description": "Two-LVPECL Output, High-Performance Clock Buffer, VQFN-16",
+  "datasheet": "http://www.ti.com/lit/ds/symlink/cdclvp1102.pdf",
+  "keywords": "Clock Buffer LVDS",
+  "footprint": "Package_DFN_QFN:VQFN-16-1EP_3x3mm_P0.5mm_EP1.6x1.6mm_ThermalVias",
+  "extends": "",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-interface@master/parts/CDCLVP1102RGT/",
+  "part_path": "parts/CDCLVP1102RGT",
+  "symbol_file": "parts/CDCLVP1102RGT/CDCLVP1102RGT.kicad_sym",
+  "source_library": "Interface.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T06:05:24.960Z"
+}

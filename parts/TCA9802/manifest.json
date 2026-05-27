@@ -1,0 +1,17 @@
+{
+  "id": "Interface/TCA9802:TCA9802",
+  "name": "TCA9802",
+  "library": "Interface",
+  "file": "Interface.kicad_symdir/TCA9802.kicad_sym",
+  "description": "Level-Translating I2C Bus Buffer/Repeater 2.2mA Current Source, VSSOP-8",
+  "datasheet": "http://www.ti.com/lit/ds/symlink/tca9802.pdf",
+  "keywords": "I2C buffer repeater",
+  "footprint": "Package_SO:VSSOP-8_3x3mm_P0.65mm",
+  "extends": "TCA9800",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-interface@master/parts/TCA9802/",
+  "part_path": "parts/TCA9802",
+  "symbol_file": "parts/TCA9802/TCA9802.kicad_sym",
+  "source_library": "Interface.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T06:05:25.289Z"
+}

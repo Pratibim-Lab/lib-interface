@@ -1,0 +1,17 @@
+{
+  "id": "Interface/LTC6957xDD-3:LTC6957xDD-3",
+  "name": "LTC6957xDD-3",
+  "library": "Interface",
+  "file": "Interface.kicad_symdir/LTC6957xDD-3.kicad_sym",
+  "description": "Low Phase Noise, Dual Output Buffer/Driver/Logic Converter, CMOS In-Phase Outputs, DFN-12",
+  "datasheet": "https://www.analog.com/media/en/technical-documentation/data-sheets/6957fb.pdf",
+  "keywords": "LTC clock converter",
+  "footprint": "Package_DFN_QFN:DFN-12-1EP_3x3mm_P0.45mm_EP1.65x2.38mm",
+  "extends": "",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-interface@master/parts/LTC6957xDD-3/",
+  "part_path": "parts/LTC6957xDD-3",
+  "symbol_file": "parts/LTC6957xDD-3/LTC6957xDD-3.kicad_sym",
+  "source_library": "Interface.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T06:05:25.026Z"
+}

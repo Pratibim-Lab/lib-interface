@@ -1,0 +1,17 @@
+{
+  "id": "Interface/AM26LV32xD:AM26LV32xD",
+  "name": "AM26LV32xD",
+  "library": "Interface",
+  "file": "Interface.kicad_symdir/AM26LV32xD.kicad_sym",
+  "description": "32Mbps 3.3V RS485 Quad Line Receivers, SOIC-16",
+  "datasheet": "http://www.ti.com/lit/ds/symlink/am26lv32.pdf",
+  "keywords": "receiver rs485 rs422 differential",
+  "footprint": "Package_SO:SOIC-16_3.9x9.9mm_P1.27mm",
+  "extends": "",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-interface@master/parts/AM26LV32xD/",
+  "part_path": "parts/AM26LV32xD",
+  "symbol_file": "parts/AM26LV32xD/AM26LV32xD.kicad_sym",
+  "source_library": "Interface.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T06:05:24.957Z"
+}

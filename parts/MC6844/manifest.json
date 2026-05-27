@@ -1,0 +1,17 @@
+{
+  "id": "Interface/MC6844:MC6844",
+  "name": "MC6844",
+  "library": "Interface",
+  "file": "Interface.kicad_symdir/MC6844.kicad_sym",
+  "description": "Direct Memory Access Controller 1MHz, DIP-40",
+  "datasheet": "http://pdf.datasheetcatalog.com/datasheets/560/501527_DS.pdf",
+  "keywords": "Direct Memory Access Controller",
+  "footprint": "Package_DIP:DIP-40_W15.24mm",
+  "extends": "",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-interface@master/parts/MC6844/",
+  "part_path": "parts/MC6844",
+  "symbol_file": "parts/MC6844/MC6844.kicad_sym",
+  "source_library": "Interface.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T06:05:25.095Z"
+}

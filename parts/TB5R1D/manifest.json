@@ -1,0 +1,17 @@
+{
+  "id": "Interface/TB5R1D:TB5R1D",
+  "name": "TB5R1D",
+  "library": "Interface",
+  "file": "Interface.kicad_symdir/TB5R1D.kicad_sym",
+  "description": "Quad differential PECL reciver",
+  "datasheet": "http://www.ti.com/lit/ds/symlink/tb5r1.pdf",
+  "keywords": "differential PECL reciver",
+  "footprint": "Package_SO:SOIC-16_3.9x9.9mm_P1.27mm",
+  "extends": "",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-interface@master/parts/TB5R1D/",
+  "part_path": "parts/TB5R1D",
+  "symbol_file": "parts/TB5R1D/TB5R1D.kicad_sym",
+  "source_library": "Interface.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T06:05:25.241Z"
+}

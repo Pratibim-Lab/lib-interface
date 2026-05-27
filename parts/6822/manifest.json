@@ -1,0 +1,17 @@
+{
+  "id": "Interface/6822:6822",
+  "name": "6822",
+  "library": "Interface",
+  "file": "Interface.kicad_symdir/6822.kicad_sym",
+  "description": "Peripheral Interface Adapter 1MHz, DIP-40",
+  "datasheet": "http://pdf1.alldatasheet.com/datasheet-pdf/view/135452/MOTOROLA/MC6822.html",
+  "keywords": "PIA",
+  "footprint": "Package_DIP:DIP-40_W15.24mm",
+  "extends": "6821",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-interface@master/parts/6822/",
+  "part_path": "parts/6822",
+  "symbol_file": "parts/6822/6822.kicad_sym",
+  "source_library": "Interface.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T06:05:24.915Z"
+}

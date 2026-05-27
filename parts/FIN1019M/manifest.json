@@ -1,0 +1,17 @@
+{
+  "id": "Interface/FIN1019M:FIN1019M",
+  "name": "FIN1019M",
+  "library": "Interface",
+  "file": "Interface.kicad_symdir/FIN1019M.kicad_sym",
+  "description": "3.3V LVDS High Speed Differential Driver/Receiver, 400Mbps, SOIC-14",
+  "datasheet": "http://www.onsemi.com/pub/Collateral/FIN1019-D.pdf",
+  "keywords": "lvds driver receiver",
+  "footprint": "Package_SO:SOIC-14_3.9x8.7mm_P1.27mm",
+  "extends": "",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-interface@master/parts/FIN1019M/",
+  "part_path": "parts/FIN1019M",
+  "symbol_file": "parts/FIN1019M/FIN1019M.kicad_sym",
+  "source_library": "Interface.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T06:05:24.982Z"
+}

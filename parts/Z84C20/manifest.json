@@ -1,0 +1,17 @@
+{
+  "id": "Interface/Z84C20:Z84C20",
+  "name": "Z84C20",
+  "library": "Interface",
+  "file": "Interface.kicad_symdir/Z84C20.kicad_sym",
+  "description": "Parallel I/O, CMOS, DIP-40",
+  "datasheet": "https://www.zilog.com/appnotes_download.php?FromPage=DirectLink&dn=PS0180&ft=Product%20Specification%20(Data%20Sheet)%20%20&f=YUhSMGNEb3ZMM2QzZHk1NmFXeHZaeTVqYjIwdlpHOWpjeTk2T0RBdmNITXdNVGd3TG5Ca1pnPT0=",
+  "keywords": "Z80 PIO parallel",
+  "footprint": "Package_DIP:DIP-40_W15.24mm",
+  "extends": "Z8420",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-interface@master/parts/Z84C20/",
+  "part_path": "parts/Z84C20",
+  "symbol_file": "parts/Z84C20/Z84C20.kicad_sym",
+  "source_library": "Interface.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T06:05:25.335Z"
+}

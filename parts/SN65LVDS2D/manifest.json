@@ -1,0 +1,17 @@
+{
+  "id": "Interface/SN65LVDS2D:SN65LVDS2D",
+  "name": "SN65LVDS2D",
+  "library": "Interface",
+  "file": "Interface.kicad_symdir/SN65LVDS2D.kicad_sym",
+  "description": "High-Speed Differential Line Receiver, 630Mbps, SOIC-8",
+  "datasheet": "https://www.ti.com/lit/ds/symlink/sn65lvds2.pdf",
+  "keywords": "LVDS Receiver TI",
+  "footprint": "Package_SO:SOIC-8_3.9x4.9mm_P1.27mm",
+  "extends": "",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-interface@master/parts/SN65LVDS2D/",
+  "part_path": "parts/SN65LVDS2D",
+  "symbol_file": "parts/SN65LVDS2D/SN65LVDS2D.kicad_sym",
+  "source_library": "Interface.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T06:05:25.179Z"
+}

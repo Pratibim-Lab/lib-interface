@@ -1,0 +1,17 @@
+{
+  "id": "Interface/S5933_PQ160:S5933_PQ160",
+  "name": "S5933_PQ160",
+  "library": "Interface",
+  "file": "Interface.kicad_symdir/S5933_PQ160.kicad_sym",
+  "description": "PCI 2.1 Compliant Master/Slave Device, PQFP-160",
+  "datasheet": "http://datasheet.datasheetarchive.com/originals/distributors/Datasheets-35/DSA-684194.pdf",
+  "keywords": "PCI 2.1 Compliant Master/Slave Device",
+  "footprint": "Package_QFP:PQFP-160_28x28mm_P0.65mm",
+  "extends": "",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-interface@master/parts/S5933_PQ160/",
+  "part_path": "parts/S5933_PQ160",
+  "symbol_file": "parts/S5933_PQ160/S5933_PQ160.kicad_sym",
+  "source_library": "Interface.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T06:05:25.154Z"
+}

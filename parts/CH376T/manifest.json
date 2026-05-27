@@ -1,0 +1,17 @@
+{
+  "id": "Interface/CH376T:CH376T",
+  "name": "CH376T",
+  "library": "Interface",
+  "file": "Interface.kicad_symdir/CH376T.kicad_sym",
+  "description": "File Management USB Flash Card SD Interface, SSOP-20",
+  "datasheet": "https://www.mpja.com/download/ch376ds1.pdf",
+  "keywords": "USB Mass-Storage SD Card Interface",
+  "footprint": "Package_SO:SSOP-20_5.3x7.2mm_P0.65mm",
+  "extends": "",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-interface@master/parts/CH376T/",
+  "part_path": "parts/CH376T",
+  "symbol_file": "parts/CH376T/CH376T.kicad_sym",
+  "source_library": "Interface.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T06:05:24.961Z"
+}

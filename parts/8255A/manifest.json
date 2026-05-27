@@ -1,0 +1,17 @@
+{
+  "id": "Interface/8255A:8255A",
+  "name": "8255A",
+  "library": "Interface",
+  "file": "Interface.kicad_symdir/8255A.kicad_sym",
+  "description": "Programmable Peripheral Interface, PDIP-40",
+  "datasheet": "http://aturing.umcs.maine.edu/~meadow/courses/cos335/Intel8255A.pdf",
+  "keywords": "8255 PPI",
+  "footprint": "Package_DIP:DIP-40_W15.24mm",
+  "extends": "8255",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-interface@master/parts/8255A/",
+  "part_path": "parts/8255A",
+  "symbol_file": "parts/8255A/8255A.kicad_sym",
+  "source_library": "Interface.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T06:05:24.924Z"
+}

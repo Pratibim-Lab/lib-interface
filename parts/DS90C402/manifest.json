@@ -1,0 +1,17 @@
+{
+  "id": "Interface/DS90C402:DS90C402",
+  "name": "DS90C402",
+  "library": "Interface",
+  "file": "Interface.kicad_symdir/DS90C402.kicad_sym",
+  "description": "Dual LVDS Receiver, >155Mbps, 5V, SOIC-8",
+  "datasheet": "http://www.ti.com/lit/ds/symlink/ds90c402.pdf",
+  "keywords": "Dual LVDS Receiver",
+  "footprint": "Package_SO:SOIC-8_3.9x4.9mm_P1.27mm",
+  "extends": "",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-interface@master/parts/DS90C402/",
+  "part_path": "parts/DS90C402",
+  "symbol_file": "parts/DS90C402/DS90C402.kicad_sym",
+  "source_library": "Interface.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T06:05:24.970Z"
+}

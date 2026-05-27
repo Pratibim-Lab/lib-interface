@@ -1,0 +1,17 @@
+{
+  "id": "Interface/AD9954:AD9954",
+  "name": "AD9954",
+  "library": "Interface",
+  "file": "Interface.kicad_symdir/AD9954.kicad_sym",
+  "description": "14-Bit Direct Digital Synthesizer with 400MSPS DAC, 1.8V, TQFP48",
+  "datasheet": "https://www.analog.com/static/imported-files/data_sheets/AD9954.pdf",
+  "keywords": "Direct Digital Synthesizer DDS",
+  "footprint": "Package_QFP:TQFP-48-1EP_7x7mm_P0.5mm_EP3.5x3.5mm",
+  "extends": "",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-interface@master/parts/AD9954/",
+  "part_path": "parts/AD9954",
+  "symbol_file": "parts/AD9954/AD9954.kicad_sym",
+  "source_library": "Interface.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T06:05:24.948Z"
+}

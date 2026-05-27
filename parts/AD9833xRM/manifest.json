@@ -1,0 +1,17 @@
+{
+  "id": "Interface/AD9833xRM:AD9833xRM",
+  "name": "AD9833xRM",
+  "library": "Interface",
+  "file": "Interface.kicad_symdir/AD9833xRM.kicad_sym",
+  "description": "10 bit 25 MHz Programmable Waveform Generator, 2.3V to 5.5V, 12.65mW, MSOP-10",
+  "datasheet": "https://www.analog.com/media/en/technical-documentation/data-sheets/ad9833.pdf",
+  "keywords": "Direct Digital Synthesizer DDS",
+  "footprint": "Package_SO:MSOP-10_3x3mm_P0.5mm",
+  "extends": "",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-interface@master/parts/AD9833xRM/",
+  "part_path": "parts/AD9833xRM",
+  "symbol_file": "parts/AD9833xRM/AD9833xRM.kicad_sym",
+  "source_library": "Interface.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T06:05:24.936Z"
+}

@@ -1,0 +1,17 @@
+{
+  "id": "Interface/MC68B21:MC68B21",
+  "name": "MC68B21",
+  "library": "Interface",
+  "file": "Interface.kicad_symdir/MC68B21.kicad_sym",
+  "description": "Peripheral Interface Adapter 2MHz, DIP-40",
+  "datasheet": "http://pdf.datasheetcatalog.com/datasheet/motorola/6821.pdf",
+  "keywords": "PIA",
+  "footprint": "Package_DIP:DIP-40_W15.24mm",
+  "extends": "6821",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-interface@master/parts/MC68B21/",
+  "part_path": "parts/MC68B21",
+  "symbol_file": "parts/MC68B21/MC68B21.kicad_sym",
+  "source_library": "Interface.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T06:05:25.109Z"
+}

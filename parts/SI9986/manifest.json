@@ -1,0 +1,17 @@
+{
+  "id": "Interface/SI9986:SI9986",
+  "name": "SI9986",
+  "library": "Interface",
+  "file": "Interface.kicad_symdir/SI9986.kicad_sym",
+  "description": "Integrated, buffered H-bridge with TTL compatible inputs, 1A, 12V, SOIC-8",
+  "datasheet": "http://www.vishay.com/docs/70007/si9986.pdf",
+  "keywords": "integrated, buffered H-bridge",
+  "footprint": "Package_SO:SOIC-8_3.9x4.9mm_P1.27mm",
+  "extends": "",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-interface@master/parts/SI9986/",
+  "part_path": "parts/SI9986",
+  "symbol_file": "parts/SI9986/SI9986.kicad_sym",
+  "source_library": "Interface.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T06:05:25.161Z"
+}

@@ -1,0 +1,17 @@
+{
+  "id": "Interface/8259A:8259A",
+  "name": "8259A",
+  "library": "Interface",
+  "file": "Interface.kicad_symdir/8259A.kicad_sym",
+  "description": "8259, Programmable Interrupt Controller, PDIP-28",
+  "datasheet": "http://pdos.csail.mit.edu/6.828/2005/readings/hardware/8259A.pdf",
+  "keywords": "PIC",
+  "footprint": "Package_DIP:DIP-28_W15.24mm",
+  "extends": "8259",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-interface@master/parts/8259A/",
+  "part_path": "parts/8259A",
+  "symbol_file": "parts/8259A/8259A.kicad_sym",
+  "source_library": "Interface.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T06:05:24.929Z"
+}

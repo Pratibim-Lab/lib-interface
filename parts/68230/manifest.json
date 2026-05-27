@@ -1,0 +1,17 @@
+{
+  "id": "Interface/68230:68230",
+  "name": "68230",
+  "library": "Interface",
+  "file": "Interface.kicad_symdir/68230.kicad_sym",
+  "description": "PIT Parallel Interface and Timer",
+  "datasheet": "https://www.nxp.com/docs/en/data-sheet/MC68230.pdf",
+  "keywords": "MPRO",
+  "footprint": "Package_DIP:DIP-48_W15.24mm",
+  "extends": "",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-interface@master/parts/68230/",
+  "part_path": "parts/68230",
+  "symbol_file": "parts/68230/68230.kicad_sym",
+  "source_library": "Interface.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T06:05:24.916Z"
+}

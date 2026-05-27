@@ -1,0 +1,17 @@
+{
+  "id": "Interface/SN74LV8153PW:SN74LV8153PW",
+  "name": "SN74LV8153PW",
+  "library": "Interface",
+  "file": "Interface.kicad_symdir/SN74LV8153PW.kicad_sym",
+  "description": "UART, Single wire input, Output 40mA, Open Collector or Push Pull, TSSOP-20",
+  "datasheet": "https://www.ti.com/lit/ds/symlink/sn74lv8153.pdf",
+  "keywords": "serial to parallel",
+  "footprint": "Package_SO:TSSOP-20_4.4x6.5mm_P0.65mm",
+  "extends": "SN74LV8153N",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-interface@master/parts/SN74LV8153PW/",
+  "part_path": "parts/SN74LV8153PW",
+  "symbol_file": "parts/SN74LV8153PW/SN74LV8153PW.kicad_sym",
+  "source_library": "Interface.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T06:05:25.204Z"
+}
